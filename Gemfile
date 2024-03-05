@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'dotenv', '~> 2.8'
+gem 'dotenv', '~> 3.0'
 gem 'nokogiri', '~> 1.13'
 gem 'pry'
 gem 'rake', '~> 13.0'
